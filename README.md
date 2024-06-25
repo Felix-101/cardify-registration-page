@@ -2,11 +2,15 @@ Navigate to the master branch
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
-2. **Install dependencies**:
-  flutter pub get
+2. **Fetch the dependencies:**
+    ```bash
+    flutter pub get
+    ```
 
-3. **Running the App**:
-  flutter run
+3. **Run the app:**
+    ```bash
+    flutter run
+    ```
 
 4  **Project structure**:
   lib/
